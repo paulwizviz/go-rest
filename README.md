@@ -2,6 +2,11 @@
 
 This section contain example implementations of Go with RESTFul interfaces.
 
+## Topics
+
+* [chi Library](./docs/chi.md)
+* [Standard Library](./docs/std.md)
+
 ## Disclaimer
 
 This project is for educational purposes only. It is not a production-ready solution and requires significant modifications, rigorous security audits, and extensive testing before use in any production environment.

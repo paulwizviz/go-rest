@@ -1,0 +1,13 @@
+# `chi` Library
+
+This section discuss the use of [chi library](https://github.com/go-chi/chi).
+
+## Working Examples
+
+The following examples demonstrates the implementation of RESTFul interfaces using `chi` library.
+
+### Example 1
+
+This is a [minimalist example](../examples/chi/ex1/main.go) demonstrating the use of `chi`. This is copy of the example from the official repository.
+
+It includes unit testing.
