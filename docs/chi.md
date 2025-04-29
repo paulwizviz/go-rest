@@ -11,3 +11,7 @@ The following examples demonstrates the implementation of RESTFul interfaces usi
 This is a [minimalist example](../examples/chi/ex1/main.go) demonstrating the use of `chi`. This is copy of the example from the official repository.
 
 It includes unit testing.
+
+### Example 2
+
+This [example](../examples/chi/ex2/main.go) demonstrates implementation of middleware.
