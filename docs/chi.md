@@ -15,3 +15,7 @@ It includes unit testing.
 ### Example 2
 
 This [example](../examples/chi/ex2/main.go) demonstrates implementation of middleware.
+
+### Example 3
+
+This [example](../examples/chi/ex3/main.go) demonstrates use middleware before http call.
